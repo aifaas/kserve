@@ -1,4 +1,4 @@
-module github.com/aifaas/sapir-serverless-platform/kserve
+module github.com/aifaas/kserve
 
 go 1.21
 
