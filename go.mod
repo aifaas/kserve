@@ -1,4 +1,4 @@
-module github.com/kserve/kserve
+module github.com/aifaas/sapir-serverless-platform/kserve
 
 go 1.21
 
@@ -16,6 +16,7 @@ require (
 	github.com/googleapis/google-cloud-go-testing v0.0.0-20210719221736-1c9a4c676720
 	github.com/json-iterator/go v1.1.12
 	github.com/kelseyhightower/envconfig v1.4.0
+	github.com/kserve/kserve v0.13.1
 	github.com/onsi/ginkgo/v2 v2.13.0
 	github.com/onsi/gomega v1.30.0
 	github.com/pkg/errors v0.9.1
